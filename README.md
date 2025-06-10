@@ -19,3 +19,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 * Create a dashboard according to the mock-up provided by stakeholders.
 * Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
+## Provided Mock-up Dashboard
+![Dashboard](https://github.com/DA-abhi/AtliQ-Hospitality-Analysis---PowerBI/blob/main/Resources/mock%20up%20dashboard_atliq%20grands.png)
+
+
