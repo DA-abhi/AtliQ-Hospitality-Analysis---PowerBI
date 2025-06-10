@@ -1,4 +1,5 @@
 # AtliQ-Hospitality-Analysis-PowerBI
+![Atliq](https://github.com/DA-abhi/AtliQ-Hospitality-Analysis---PowerBI/blob/main/Resources/Atliq%20logo.png)
 Taken a part in codebasic's monthly Challenge, i have worked on this Analysis project.
 
 Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
@@ -22,4 +23,14 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Provided Mock-up Dashboard
 ![Dashboard](https://github.com/DA-abhi/AtliQ-Hospitality-Analysis---PowerBI/blob/main/Resources/mock%20up%20dashboard_atliq%20grands.png)
 
+## Data model 
+![Data Model](https://github.com/DA-abhi/AtliQ-Hospitality-Analysis---PowerBI/blob/main/Resources/Data%20model.png)
 
+## Overall Analysis 
+![Overall View](https://github.com/DA-abhi/AtliQ-Hospitality-Analysis---PowerBI/blob/main/Resources/overview.png)
+
+## Property Wise-Analysis
+![Property Details](https://github.com/DA-abhi/AtliQ-Hospitality-Analysis---PowerBI/blob/main/Resources/Property%20Details.png)
+
+## Revenue Analysis
+![Revenue Analysis](https://github.com/DA-abhi/AtliQ-Hospitality-Analysis---PowerBI/blob/main/Resources/Revenue.png)
